@@ -1,0 +1,57 @@
+Emoção de cores:
+- O estudo da psicologia das cores e o entendimento delas para os seres humanos é fundamental para a criação de sites, tendo em vista que afeta diretamente o comportamento e reações dos usuários ao visitar um site.
+- O ser-humano tende a achar coisas bonitas quando elas são simétricas, sincronizadas e a harmonicas.
+
+Harmonização das cores:
+- Círculo cromático:
+    - Cores primárias:
+        - amarelo
+        - vermelho
+        - azul
+        - são simétricas formando um triangulo equilátero no círculo cromático
+        - Não ficam tão bonitas juntas, mas são extremamente importantes.
+    
+    - Cores secundárias:
+        - laranja
+        - violeta
+        - verde
+        - Assim como as cores primárias, são simétricas no circulo cromático, porém, juntas, n~´ao são tão utilizadas também.
+    
+    - Cores terciarias:
+        - Toda cor dita terciaria é uma mistura entre as cores primárias e as cores secundárias. Seu nome sempre é dado primeiro com a cor primária, e, depois, com a cor secundária. São consideradas as cores com "tons pastéis".
+        
+        - amarelo-esverdeado
+        - amarelo-alaranjado
+        - vermelho- alaranjado
+        - vermelho-arroxeado
+        - azul-arroxeado
+        - azul-esverdeado
+    
+    - O que está a "esquerda" do círculo Cromático são consideradas as cores frias. Já o que está a "direita" do círculo são consideradas as cores quentes.
+    
+    - A paleta de cores de um site, vai de geralmente 3 a 5 cores, tirando o preto e branco.
+
+    - Cores complementares:
+        - Cores complementares são as cores opostas entre si no Círculo Cromático. Não necessariamente, ficam bonitas, apenas são cores com contraste entre si.
+    
+    - Cores análogas:
+        - Ao contrário das cores complementares, as cores análogas são as cores "Vizinhas" no Círculo Cromático. Elas possuem uma certa similaridade, não havendo um contraste tão grande entre elas.
+
+        - Cores análogas Relacionadas:
+            - Pega-se duas cores no Círculo Cromático, pula uma vizinha, e então, pega-se a cor após a vizinha, podendo ser tanto para a esquerda, quanto para a direita.
+    
+    - Cores Intercaladas:
+        - Como o próprio nome ja diz, escolhe-se uma cor, e pula de uma em uma e assim monta-se a paleta de cores, com um contraste mais rígido e menos harmonioso do que as demais.
+        - Exemplo de cores Intercaladas:
+            - Cores Triádicas: formar um triangulo pulando de 3 em 3 cores no circulo cromático.
+
+            - Cores em quadrado: ao inves de pular 3, pula-se duas cores no Círculo Cromático, formando um quadrado.
+
+            Cores Tetrádicas: Escolhe-se duas cores e pega depois as complementares dessas cores escolhidas, formando um tetraedro.
+    
+    - Monocromia:
+        - Usa-se apenas uma cor, e muda apenas a saturação e a luminosidade, criando uma paleta de cores monocromáticas com cores bem harmonicas (degrade).
+
+-Sugestão de aplicativos: 
+- Adobe color
+ - Paletton

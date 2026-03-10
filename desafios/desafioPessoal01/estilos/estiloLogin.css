@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+:root {
+    --cor0: #4487B1;
+    --cor1: #4487B1;
+    --cor2: #3099DC;
+    --cor3: #42525C;
+    --cor4: #2D3133;
+    --cor5: #262E33;
+
+}
+
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom, var(--cor0),var(--cor1));
+    
+} 
+header > h1 {
+    text-align: center;
+    padding: 3.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    Color: var(--cor4);
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.63);
+    font-size: 3rem;
+
+}
+main {
+    min-width: 18.7rem;
+    max-width: 37.5rem;
+    min-height: 18.7rem;
+    max-height: 43.7rem;
+    background-color: var(--cor3);
+    margin: auto;
+    margin-bottom: 0.9rem;
+    padding: 2.5rem 1.2rem;
+    box-shadow: 0rem 0rem 0.6rem rgba(0, 0, 0, 0.103);
+    border-radius: 10px;
+    
+}
+main > input {
+    display: block;
+    margin: auto;
+    margin-bottom: 0.6rem;
+    
+}
+main > p {
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-bottom: 0.3rem;
+    padding-top: 0.6rem;
+}
+
+main  a {
+    font-weight: bold;
+    color: var(--cor2);
+    text-decoration: none;
+}
+main a:hover{
+    text-decoration: underline;
+    font-size: 1.03rem;
+}
+input#login, input#senha{
+    height: 1.2rem;
+    width: 12.5rem;
+    background-color: rgb(221, 205, 205);
+    border-radius: 0.3rem;
+    border: 1px solid var(--cor5);
+}
+
+input#login:focus, input#senha:focus {
+    transform: scale(1.05);
+    outline: none;
+    border-color: var(--cor2);
+}
+input#entrar {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: white;
+    background-color:var(--cor3) ;
+    height: 1.5rem;
+    width: 4.3rem;
+    border: 1px solid var(--cor2);
+    border-radius: 0.2rem;
+}
+input#entrar:hover{
+    transform: scale(1.05);
+}
+    
